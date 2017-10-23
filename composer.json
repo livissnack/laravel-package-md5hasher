@@ -1,0 +1,18 @@
+{
+    "name": "hiphup/hasher",
+    "description": "Md5 support in hiphup",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Bruce Snack",
+            "email": "brucesnack@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Hiphup\\Hasher\\": "src/"
+        }
+    }
+}
