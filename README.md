@@ -8,6 +8,8 @@
 
 `
 //Illuminate\Hashing\HashServiceProvider::class,
+`
+`
 \Hiphup\Hasher\MD5HasherProvider::class,
 `
 
